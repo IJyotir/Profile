@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Watch the Security and Derivative - Under Construction The Bigger the better? Bull or Bear"
+title:  "Equity - Watch the Security and Derivative - Under Construction The Bigger the better? Bull or Bear"
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: c.jpg
