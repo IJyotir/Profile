@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nobody else was around - Me & Books Learning never exhausts the mind."
+title:  "Me & Books , Nobody else was around -  Learning never exhausts the mind."
 categories: jekyll update
 img: b.jpg
 categories: two
