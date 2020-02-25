@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Post with no image"
+title:  "Watch the Security and Derivative - Under Construction The Bigger the better? Bull or Bear"
+date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
+img: c.jpg
 ---
 When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.
 
