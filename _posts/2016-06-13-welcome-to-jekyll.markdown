@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My Workshop - Resume, It's always a bit messy"
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: f.jpg
