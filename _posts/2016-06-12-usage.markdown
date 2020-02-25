@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Usage Guide"
+title:  "Nobody else was around - Me & Books Learning never exhausts the mind."
 categories: jekyll update
-img: image-2.png
+img: b.jpg
 categories: two
 ---
 
