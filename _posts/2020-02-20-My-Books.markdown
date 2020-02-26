@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Me & Books , Nobody else was around -  Learning never exhausts the mind."
-subtitle: "Learning never exhausts the mind."
+title:  "Me & Books"
 categories: jekyll update
 img: b.jpg
 author: "Jbo"
 categories: two
 date:   2020-02-23 10:17:15
 ---
+
+Learning never exhausts the mind
 
 ## **Books 2020**
 
