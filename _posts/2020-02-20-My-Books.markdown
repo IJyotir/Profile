@@ -9,15 +9,6 @@ categories: two
 date:   2020-02-23 10:17:15
 ---
 
----
-title:  "Nobody else was around - Me & Books"
-subtitle: "Learning never exhausts the mind."
-author: "Jbo"
-avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
-date:   2020-02-23 10:17:15
----
-
 ## **Books 2020**
 
 1. The Infinite Game - How Great Businesses Achieve Long-lasting Success
