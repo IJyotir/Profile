@@ -20,9 +20,11 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-[Software Architecture Fundamentals][jekyll-docs]
-[Design Principles][jekyll-docs] 
-[Design Patterns and Enterprise Patterns][jekyll-docs]
+1. [Software Architecture Fundamentals][jekyll-docs]
+
+2. [Design Principles][jekyll-docs] 
+
+3. [Design Patterns and Enterprise Patterns][jekyll-docs]
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
