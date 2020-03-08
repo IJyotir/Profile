@@ -23,7 +23,7 @@ print_hi('Tom')
 [Software Architecture Fundamentals][jekyll-docs]
 [Design Principles][jekyll-docs] 
 [Design Patterns and Enterprise Patterns][jekyll-docs]
-[Sof]
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
