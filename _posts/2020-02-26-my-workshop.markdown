@@ -61,7 +61,7 @@ It's always a bit messy
     </div>
 
 
-<div class="col-md-4">
+   <div class="col-md-4">
         <div class="panel panel-info">
           <div class="panel-heading">
             <h3 class="panel-title">Machine Learning</h3>
@@ -72,11 +72,8 @@ It's always a bit messy
         </div>
     </div>
 
-   <div class="col-md-4">
-    </div>
-</div>
 
-<div class="col-md-4">
+ <div class="col-md-4">
         <div class="panel panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">Deep Learning</h3>
@@ -98,8 +95,6 @@ It's always a bit messy
           </div>
         </div>
     </div>
-
-
 
    <div class="col-md-4">
         <div class="panel panel-warning">
