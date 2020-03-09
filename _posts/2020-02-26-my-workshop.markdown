@@ -15,34 +15,72 @@ It's always a bit messy
   <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
 
-<div class="panel panel-primary">
-    <div class="panel-heading">
-    <h3 class="panel-title">Software Architecture Fundamentals</h3>
-    </div>
-    <div class="panel-body">
-    This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information
-    </div>
+<div class="jumbotron">
+  <h2>Software Architecture Fundamentals</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
 
-2. [Design Principles][jekyll-docs] 
+<div class="jumbotron">
+  <h2>Design Principles</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-3. [Design Patterns and Enterprise Patterns][jekyll-docs]
+<div class="jumbotron">
+  <h2>Design Patterns and Enterprise Patterns</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-4. [Machine Learning][jekyll-docs]
+<div class="jumbotron">
+  <h2>Machine Learning</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-5. [Deep Learning][jekyll-docs]
+<div class="jumbotron">
+  <h2>Deep Learning</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-6. [NLP][jekyll-docs]
+<div class="jumbotron">
+  <h2>Deep Learning</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-7. [Cloud][jekyll-docs]
+<div class="jumbotron">
+  <h2>Cloud</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-8. [Queue][jekyll-docs]
+<div class="jumbotron">
+  <h2>Messaging Queue</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-9. [Databases][jekyll-docs]
+<div class="jumbotron">
+  <h2>Databases</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-10. [BIG Data][jekyll-docs]
+<div class="jumbotron">
+  <h2>BIG Data</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
-11. [Python Libs][jekyll-docs]
+
+<div class="jumbotron">
+  <h2>Python Libs</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
 
 
 ## [My Project Details][jekyll-docs]
