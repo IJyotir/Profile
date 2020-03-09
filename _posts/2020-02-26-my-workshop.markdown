@@ -11,7 +11,7 @@ It's always a bit messy
 
 <div class="row">
     <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Software Architecture</h3>
           </div>
@@ -24,7 +24,7 @@ It's always a bit messy
 
 
    <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Design Principles</h3>
           </div>
@@ -37,7 +37,7 @@ It's always a bit messy
 
 
    <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Design Patterns</h3>
           </div>
