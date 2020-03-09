@@ -14,6 +14,7 @@ It's always a bit messy
   <p>My learning continues....</p>
   <p><a class="btn btn-primary btn-lg" href="www.google.com" role="button" >Learn more</a></p>
   <p><a href="www.facebook.com" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary link</a></p>
+  <a href="#" class="btn btn-link">Link</a>
 </div>
 
 
