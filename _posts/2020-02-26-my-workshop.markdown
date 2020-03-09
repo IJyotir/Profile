@@ -4,6 +4,7 @@ title:  "My Workshop - Resume"
 date:   2020-03-09 10:51:47 +0530
 categories: jekyll update
 img: f.jpg
+baseurl: "/"
 categories: [one, two]
 ---
 
@@ -12,7 +13,7 @@ It's always a bit messy
 <div class="jumbotron">
   <h2>My Work Life</h2>
   <p>My learning continues....</p>
-  <p><a class="btn btn-primary btn-lg" href="images/Jyoti_bose_Summary.pdf">My Resume</a></p>
+  <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/images/Jyoti_bose_Summary.pdf">My Resume</a></p>
 </div>
 
 
