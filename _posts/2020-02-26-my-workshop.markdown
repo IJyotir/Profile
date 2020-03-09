@@ -10,9 +10,18 @@ categories: [one, two]
 It's always a bit messy
 
 <div class="jumbotron">
-  <h2>1.Software Architecture Fundamentals</h2>
+  <h2>Software Architecture Fundamentals</h2>
   <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
   <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+    <h3 class="panel-title">Software Architecture Fundamentals</h3>
+    </div>
+    <div class="panel-body">
+    This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information
+    </div>
 </div>
 
 2. [Design Principles][jekyll-docs] 
