@@ -52,7 +52,7 @@ It's always a bit messy
     <div class="col-md-4">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">Software Architecture</h3>
+            <h3 class="panel-title">Enterprise Patterns</h3>
           </div>
           <div class="panel-body">
             Panel content
@@ -65,7 +65,7 @@ It's always a bit messy
    <div class="col-md-4">
         <div class="panel panel-success">
           <div class="panel-heading">
-            <h3 class="panel-title">Design Principles</h3>
+            <h3 class="panel-title">Machine Learning</h3>
           </div>
           <div class="panel-body">
             Panel content
@@ -78,7 +78,7 @@ It's always a bit messy
    <div class="col-md-4">
         <div class="panel panel-warning">
           <div class="panel-heading">
-            <h3 class="panel-title">Design Patterns</h3>
+            <h3 class="panel-title">Deep Learning</h3>
           </div>
           <div class="panel-body">
             Panel content
@@ -91,7 +91,7 @@ It's always a bit messy
     <div class="col-md-4">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">Software Architecture</h3>
+            <h3 class="panel-title">Cloud</h3>
           </div>
           <div class="panel-body">
             Panel content
@@ -104,7 +104,7 @@ It's always a bit messy
    <div class="col-md-4">
         <div class="panel panel-success">
           <div class="panel-heading">
-            <h3 class="panel-title">Design Principles</h3>
+            <h3 class="panel-title">Messaging Queue</h3>
           </div>
           <div class="panel-body">
             Panel content
@@ -117,7 +117,7 @@ It's always a bit messy
    <div class="col-md-4">
         <div class="panel panel-warning">
           <div class="panel-heading">
-            <h3 class="panel-title">Design Patterns</h3>
+            <h3 class="panel-title">Databases</h3>
           </div>
           <div class="panel-body">
             Panel content
@@ -130,7 +130,7 @@ It's always a bit messy
     <div class="col-md-4">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">Software Architecture</h3>
+            <h3 class="panel-title">BIG Data</h3>
           </div>
           <div class="panel-body">
             Panel content
@@ -143,7 +143,7 @@ It's always a bit messy
    <div class="col-md-4">
         <div class="panel panel-success">
           <div class="panel-heading">
-            <h3 class="panel-title">Design Principles</h3>
+            <h3 class="panel-title">Python</h3>
           </div>
           <div class="panel-body">
             Panel content
@@ -156,7 +156,7 @@ It's always a bit messy
    <div class="col-md-4">
         <div class="panel panel-warning">
           <div class="panel-heading">
-            <h3 class="panel-title">Design Patterns</h3>
+            <h3 class="panel-title">Rust</h3>
           </div>
           <div class="panel-body">
             Panel content
