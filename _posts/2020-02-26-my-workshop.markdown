@@ -16,8 +16,7 @@ It's always a bit messy
             <h3 class="panel-title">Software Architecture</h3>
           </div>
           <div class="panel-body">
-            <a href="www.google.com">An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. Architectural patterns are similar to software design pattern but have a broader scope.
-          </div>
+            <a href="www.google.com">Read</div>
         </div>
     </div>
 
