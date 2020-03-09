@@ -50,7 +50,7 @@ It's always a bit messy
 
 <div class="row">
     <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Enterprise Patterns</h3>
           </div>
@@ -63,7 +63,7 @@ It's always a bit messy
 
 
    <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Machine Learning</h3>
           </div>
@@ -76,7 +76,7 @@ It's always a bit messy
 
 
    <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Deep Learning</h3>
           </div>
@@ -89,7 +89,7 @@ It's always a bit messy
 
 <div class="row">
     <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Cloud</h3>
           </div>
@@ -102,7 +102,7 @@ It's always a bit messy
 
 
    <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Messaging Queue</h3>
           </div>
@@ -115,7 +115,7 @@ It's always a bit messy
 
 
    <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Databases</h3>
           </div>
@@ -128,7 +128,7 @@ It's always a bit messy
 
 <div class="row">
     <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">BIG Data</h3>
           </div>
@@ -141,7 +141,7 @@ It's always a bit messy
 
 
    <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Python</h3>
           </div>
@@ -154,7 +154,7 @@ It's always a bit messy
 
 
    <div class="col-md-4">
-        <div class="panel panel-info">
+        <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Rust</h3>
           </div>
