@@ -9,22 +9,65 @@ categories: [one, two]
 
 It's always a bit messy
 
-<div class="row">
-    <div class="col-md-4">
-        <a href="#" class="btn btn-info" role="button">Software Architecture</a>
-    </div>
+<div class="jumbotron">
+  <h2>Software Architecture Fundamentals</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
 
-<div class="col-md-4">
-        <a href="#" class="btn btn-info" role="button">Software Architecture</a>
-    </div>
+<div class="jumbotron">
+  <h2>Design Principles</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="jumbotron">
+  <h2>Design Patterns and Enterprise Patterns</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="jumbotron">
+  <h2>Machine Learning</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="jumbotron">
+  <h2>Deep Learning</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="jumbotron">
+  <h2>Cloud</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="jumbotron">
+  <h2>Messaging Queue</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="jumbotron">
+  <h2>Databases</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="jumbotron">
+  <h2>BIG Data</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
 
 
-<div class="row">
-    <div class="col-md-4">
-        <a href="#" class="btn btn-info" role="button">Software Architecture</a>
-    </div>
+<div class="jumbotron">
+  <h2>Python</h2>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
 
 
