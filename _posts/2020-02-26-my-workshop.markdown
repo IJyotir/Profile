@@ -12,7 +12,7 @@ It's always a bit messy
 <div class="jumbotron">
   <h2>My Work Life</h2>
   <p>My learning continues....</p>
-  <p><a class="btn btn-primary btn-lg" href="installation.markdown">Learn more</a></p>
+  <p><a class="btn btn-primary btn-lg" href="Jyoti_bose_Summary.pdf">Learn more</a></p>
 </div>
 
 
