@@ -12,7 +12,7 @@ It's always a bit messy
 <div class="jumbotron">
   <h2>My Work Life</h2>
   <p>My learning continues....</p>
-  <p><a class="btn btn-primary btn-lg" href="www.google.com">Learn more</a></p>
+  <p><a class="btn btn-primary btn-lg" href="www.google.com" role="button" >Learn more</a></p>
 </div>
 
 
