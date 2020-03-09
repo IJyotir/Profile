@@ -16,7 +16,8 @@ It's always a bit messy
             <h3 class="panel-title">Software Architecture</h3>
           </div>
           <div class="panel-body">
-            <a href="www.google.com">Read</div>
+              Panel content
+          </div>
         </div>
     </div>
 
