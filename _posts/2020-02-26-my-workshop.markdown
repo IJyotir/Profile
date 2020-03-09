@@ -12,9 +12,7 @@ It's always a bit messy
 <div class="jumbotron">
   <h2>My Work Life</h2>
   <p>My learning continues....</p>
-  <p><a class="btn btn-primary btn-lg" href="www.google.com" role="button" >Learn more</a></p>
-  <p><a href="www.facebook.com" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary link</a></p>
-  <a href="www.facebook.com" class="btn btn-link">Link</a>
+  <p><a class="btn btn-primary btn-lg" href="www.google.com">Learn more</a></p>
 </div>
 
 
