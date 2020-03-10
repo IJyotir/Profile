@@ -5,6 +5,9 @@ categories: jekyll update
 img: e.jpg
 ---
 
+Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.
+
+
 ##### [Markdown link of this same page rendered by Github ] <a href="https://github.com/IJyotir/myProfile/blob/gh-pages/_posts/2015-04-24-i-scream.markdown" class="btn btn-primary btn-xs">MD LINK</a>
 
 # Feed Forward Neural Network :
