@@ -144,5 +144,3 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 -  [`Microsoft`](https://twitter.com/jeremyphoward/status/1182444543574044677?lang=en)
 -  [`OpenAI`](https://twitter.com/OpenAI/status/1222927584033247232)
 7. **[Comparisions between Pytorch and TF](https://builtin.com/data-science/pytorch-vs-tensorflow)**
-
-
