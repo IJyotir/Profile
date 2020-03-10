@@ -27,14 +27,12 @@ It's always a bit messy
   <h2>Design Principles</h2>
   <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
   <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/Documents/Design_Principles.ipynb">Learn more</a></p>
-  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
 
 <div class="jumbotron">
   <h2>Design Patterns and Enterprise Patterns</h2>
   <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
   <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/Documents/Design_Patterns.ipynb">Learn more</a></p>
-  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
 
 <div class="jumbotron">
