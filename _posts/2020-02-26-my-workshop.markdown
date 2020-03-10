@@ -25,13 +25,13 @@ It's always a bit messy
 
 <div class="jumbotron">
   <h2>Design Principles</h2>
-  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p>Software design principles are a set of guidelines that helps developers to make a good system design. The most important principle is SOLID principle</p>
   <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/Documents/Design_Principles.ipynb">Learn more</a></p>
 </div>
 
 <div class="jumbotron">
   <h2>Design Patterns and Enterprise Patterns</h2>
-  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p>In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.</p>
   <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/Documents/Design_Patterns.ipynb">Learn more</a></p>
 </div>
 
