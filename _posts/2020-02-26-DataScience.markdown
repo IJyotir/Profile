@@ -5,8 +5,6 @@ categories: jekyll update
 img: e.jpg
 ---
 
-But do you scream? 
-
 ##### [Markdown link of this same page rendered by Github ] <a href="https://github.com/IJyotir/myProfile/blob/gh-pages/_posts/2015-04-24-i-scream.markdown" class="btn btn-primary btn-xs">MD LINK</a>
 
 # Feed Forward Neural Network :
