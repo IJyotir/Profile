@@ -13,14 +13,14 @@ It's always a bit messy
 <div class="jumbotron">
   <h2>My Work Life</h2>
   <p>My learning continues....</p>
-  <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/images/Jyoti_bose_Summary.pdf">My Resume</a></p>
+  <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/Documents/Jyoti_bose_Summary.pdf">My Resume</a></p>
 </div>
 
 
 <div class="jumbotron">
   <h2>Software Architecture Fundamentals</h2>
   <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-  <p><a class="btn btn-primary btn-lg" href="Design_Principles_and_Patterns.ipynb">Learn more</a></p>
+  <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/Documents/Design_Principles_and_Patterns.ipynb">Learn more</a></p>
 </div>
 
 <div class="jumbotron">
