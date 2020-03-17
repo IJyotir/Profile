@@ -12,3 +12,13 @@ img: c.jpg
 | 18-March-2020 | Sensex tanks 811 points  | Negative | 8900 |
 | col 2 is |    centered   |   $12 |  |
 | col 3 is | right-aligned |    $1 |  |
+
+## Table
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+{: .table .table-striped .table-hover}
+
