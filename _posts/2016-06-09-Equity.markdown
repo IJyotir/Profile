@@ -9,10 +9,8 @@ img: c.jpg
 
 ## Equity News 
 
-| Dates   |      Equity news       |  Sentiment | My Thinking |
-|----------|:-------------:|:------:|------:|
-| col 1 is |  left-aligned | $1600 |  |
-| col 2 is |    centered   |   $12 |  |
-| 18-March-2020 | Sensex tanks 811 points -covid19 | Negative | The bottom has still to not come, remaining with 5-10% cash  |
-{: .table .table-striped .table-hover}
+
+
+19-March-2020 |  |  |   |
+18-March-2020 | Sensex tanks 811 points -covid19 | Negative | The bottom has still to not come, remaining with 5-10% cash  |
 
