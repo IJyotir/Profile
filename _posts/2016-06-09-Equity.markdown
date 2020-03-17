@@ -7,6 +7,8 @@ img: c.jpg
 ---
 
 
+## Table
+
 | Dates   | Equity news    |  Sentiment| Price |
 |----------|:-------------:|------:|  |
 | 18-March-2020 | Sensex tanks 811 points  | Negative | 8900 |
@@ -15,10 +17,10 @@ img: c.jpg
 
 ## Table
 
-| Tables   |      Are      |  Cool |
+| Dates   |      Equity news       |  Sentiment |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| 18-March-2020 | Sensex tanks 811 points |    Negative |
 {: .table .table-striped .table-hover}
 
