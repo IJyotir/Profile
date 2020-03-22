@@ -1,13 +1,23 @@
 ---
 layout: post
-title:  "Equity - Watch the Security and Derivative -  The Bigger the better? Bull or Bear"
+title:  "Equity - History Rhymes"
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: c.jpg
 ---
 
 
-## Equity News 
+## Equity My Read
+
+## 22-March-2020 
+1. Wall Street Crash of 1929	24 Oct 1929	United States	Lasting over 4 years, the bursting of the speculative bubble in shares led to further selling as people who had borrowed money to buy shares had to cash them in, when their loans were called in. Also called the Great Crash or the Wall Street Crash, leading to the Great Depression.
+2. Look if the the above point no 1 , has started to play from March-2020 and it leads to a great depression in next 10 years .
+3. Try to catch this by getting a ratio of Debt and Population of America, Japan, Germany and China. As of today I doont know if there is a better indicator and I will read.
+4. Track if the biggest of world investors like Warren Buffet and Ray Dalio are reducing Debt and adding Cash.
+5. List of stock market crashes and bear markets : https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets
+6. Great Depression : https://en.wikipedia.org/wiki/Great_Depression
+
+
 ## 20-March-2020 
 1. Joel Greenblatt: "The Little Book that Beats the Market" | Talks at Google : https://www.youtube.com/watch?v=bZfPJCAVQg0
 
