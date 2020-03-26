@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "Equity - History Rhymes"
-date:   2016-06-13 10:51:47 +0530
+date:   2020-03-26 10:51:47 +0530
 categories: jekyll update
 img: c.jpg
 ---
 
-
-## Equity My Read
 
 ## 26-March-2020  : My Learning 
 India has announced a Financial Package , this rasied the hopes of the Bulls.
