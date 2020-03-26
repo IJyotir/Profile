@@ -37,8 +37,8 @@ It's always a bit messy
 
 <div class="jumbotron">
   <h2>Machine Learning</h2>
-  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+  <p>Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.</p>
+  <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/tree/master/Documents/NLP"> Learn more</a></p>
 </div>
 
 <div class="jumbotron">
