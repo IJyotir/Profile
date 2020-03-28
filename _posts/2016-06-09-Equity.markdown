@@ -6,7 +6,7 @@ categories: jekyll update
 img: c.jpg
 ---
 ## 29-March-2020  : Last 500 years of India and the world
-2031  : 
+2031  : ABC
 2030  :
 2020: Covid-19 led to recession in the entire world and In India .
 2011: India and the world was in Recession , there was a slow recovery . Internet and mobile phone buzz was catching up.
