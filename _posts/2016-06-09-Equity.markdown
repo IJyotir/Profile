@@ -6,8 +6,8 @@ categories: jekyll update
 img: c.jpg
 ---
 ## 29-March-2020  : Last 500 years of India and the world
-2031:
-2030:
+2031  : 
+2030  :
 2020: Covid-19 led to recession in the entire world and In India .
 2011: India and the world was in Recession , there was a slow recovery . Internet and mobile phone buzz was catching up.
 2010: Nothing Significant b/w we were still into recession and Stock prices were at its low. 2008 we hit recession subprime crisis.
