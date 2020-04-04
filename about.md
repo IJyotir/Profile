@@ -14,6 +14,7 @@ permalink: /about/
 | Senior SME  | Apr’15 – Oct’17 |   Lead | Amdocs  |
 | Senior SME  | Nov’12 – Nov’14 |   Lead | Amdocs |
 | Senior SME  | Nov’10 – Nov’12 |   Lead | Amdocs |
-| Design Engineer| Aug’09 – Nov’10 |   Lead | CG-Coreel and ISRO  |
+|  SME  | Aug’09 – Nov’10 |   Lead | Amdocs |
+| Design Engineer|  |   Lead | CG-Coreel and ISRO  |
 
 
