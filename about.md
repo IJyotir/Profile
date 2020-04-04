@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+## Experience Summary: (14 years)
 
 | Designation   |      Duration       |  Skill Set |  Organization  |
 |----------|:-------------:|:------:|------:|
@@ -18,3 +19,4 @@ permalink: /about/
 | Design Engineer|  Jul’07- Aug’09 |   Software development    | CG-Coreel and ISRO  |
 
 
+## Specializations:
