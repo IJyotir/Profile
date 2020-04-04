@@ -6,7 +6,7 @@ permalink: /about/
 
 
 | Designation   |      Duration       |  Skill Set |  Organization  |
-|----------|:-------------:|------:|
+|----------|:-------------:|:------:|------:|
 | DS Architect  |  June’19-Till date | Pre-sales and ML Architect | Calsoft |
 | Architect  |    Oct’17- June’19   |   Solution and Software Architect | Amdocs  |
 | Group Lead  | Apr’15 – Oct’17 |   Lead | Amdocs |
