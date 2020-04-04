@@ -4,7 +4,19 @@ title: About
 permalink: /about/
 ---
 
-## Experience Summary: (14 years)
+## About Me :
+- Reading and Learning -  I spend my entire day. 
+- Except celebrity gossips -  I read , watch , listen everything .
+- Meditation  - Learning to Meditate is next in my bucketlist. 
+- Nature - I enjoys to walk into nature to witness its thousand miracles.
+- Cricket - I Bleed Blue.
+- Admire - Richard Feynman, Sachin Tendulkar , My Father , Warren Buffet , Charlie Munger , Sadh Guru , Amir Khan.
+- Songs and Music - Kishore Kumar , Rajesh Khanna , Manna Dey , Rd Burman.
+- Countries - India , Philippines, Japan , Austria , Germany , Belgium , Sweden , Finnland .
+- Food, I cant Resist - Briyani , Hakka Noddles , Khasta aloo ki sabji.
+
+
+## Work Experience Summary: (14 years)
 
 | Designation   |      Duration       |  Skill Set |  Organization  |
 |----------|:-------------:|:------:|------:|
@@ -30,3 +42,17 @@ permalink: /about/
 | Software Architecture,Design Principles &  Design Pattern  | C, Python  |    14 Years |
 
 
+
+## Resposiblity
+
+- Develop relationships with potential customers, through managing and interpreting their requirements.
+-	Develop and recommend technical solutions and commercial strategies, based on the analysis of customer business goals, objectives, needs, and deployed systems infrastructure.
+- Initiate product improvement / customization based on market needs and competitive environment.
+- Collect and analyze the competitors' solution , pricing strategy and market share.
+- Analyze short/medium/long-term customer needs and modify the product roadmap accordingly. Conduct market research and customer surveys on products.
+- Creating a solution architectures for the Machine learning data center .
+- Understading from the customer its clear requirement to create a Machine learing pipeline which can sustain volume, velocity , variety .
+- Breaking down the entire problem into data bricks and assemeble them using Devops methology.
+- Redefining the legacy system into a Intelligent system therefore relooking the old system and redesigning it using the SOTA tools and algorithms.
+- Using the SOTA NLP libs like Spark,Pytorch, Spacy and Plotly.
+- Creating and agreeing the design with the internal team and customer. 
