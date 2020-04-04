@@ -24,6 +24,9 @@ permalink: /about/
 | Development   |      Language      |  Duration |
 |----------|:-------------:|------:|
 | Machine Learning & Data Science | Python, Rust , Cython , Numba, Pytorch | 10 Years |
-| BigData, Spark, ML Pipelines, Hadoop, Mongo/Casendra, Cloud AWS & Azure |    Bigdata, Cloud   |   7 Years|
+| Azure, GCP , AWS , VMware |    Cloud   |   3 Years|
+| BigData, Spark, ML Pipelines, Hadoop, Mongo, Casendra, Neo4j , Oracle |    Bigdata   |   7 Years|
 | Embedded systems, IOT  | C  |    2 Years |
 | Software Architecture,Design Principles &  Design Pattern  | C, Python  |    14 Years |
+
+
