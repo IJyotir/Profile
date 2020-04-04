@@ -6,7 +6,7 @@ categories: jekyll update
 img: c.jpg
 ---
 ## 02-April-2020 :
-- As per IMF, Recession and Bear market has begun.
+- As per IMF, Recession and Bear market has begun. Such Recession is not seen in last 150 years.
 - The coronavirus economic freeze could cost 47 million jobs and send the unemployment rate past 32%, according to St. Louis Fed projections.
 - There are nearly 67 million Americans working in jobs that are at a high risk of layoffs, according to the analysis.
 - In India , poors are struggling to get 1 meal a day . Entire Indian Economy is at a stand still. 
