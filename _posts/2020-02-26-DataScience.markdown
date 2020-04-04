@@ -2,6 +2,7 @@
 layout: post
 title:  "I scream DataScience"
 categories: jekyll update
+date:   2020-04-01 10:51:47 +0530
 img: e.jpg
 ---
 
