@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 
-| Tables   |      Are      |  Cool |
+| Designation   |      Duration       |  Skill Set |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| DS Architect  |  June’19-Till date | Pre-sales and ML Architect |
+| Architect  |    Oct’17- June’19   |   Solution and Software Architect |
+| Group Lead  | Apr’15 – Oct’17 |   Lead |
 {: .table .table-striped .table-hover}
 
 
