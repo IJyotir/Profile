@@ -20,7 +20,7 @@ It's always a bit messy
 <div class="jumbotron">
   <h2>Software Architecture Fundamentals</h2>
   <p>Architecture is the highest level concept of the expert developers. </p>
-  <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/Documents/Software_Architecture_Fundamentals.ipynb">Learn more</a></p>
+  <p><a class="btn btn-primary btn-lg" href="https://github.com/IJyotir/ijyotir.github.io/blob/master/Documents/Software_Architecture_Fundamentals.pdf">Learn more</a></p>
 </div>
 
 <div class="jumbotron">
